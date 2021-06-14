@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>folder.png</file>
+        <file>pause-button.png</file>
+        <file>play-button.png</file>
+        <file>stop-button.png</file>
+        <file>copy.png</file>
+        <file>folder (1).png</file>
+        <file>note.png</file>
+        <file>redo.png</file>
+        <file>save.png</file>
+        <file>undo (1).png</file>
+    </qresource>
+</RCC>
